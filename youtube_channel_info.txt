@@ -2,9 +2,6 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Kalaignar News | Tamil | https://i.imgur.com/O9mx3BX.jpg | 
-https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
-
 NewsTamil 24x7 | Tamil | https://i.imgur.com/AzIEYXU.png |
 https://www.youtube.com/channel/UCtbo6_eDG7zEtaOtcSltJkA/live
 
@@ -43,6 +40,9 @@ https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
 
 Jaya Plus | Tamil | https://i.imgur.com/SJBIGOb.png | 
 https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw/live
+
+Kalaignar News | Tamil | https://i.imgur.com/O9mx3BX.jpg | 
+https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
 
 Captain News | Tamil | https://i.imgur.com/glL5zYr.png | 
 https://www.youtube.com/c/CaptainNews/live
