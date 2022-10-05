@@ -14,7 +14,7 @@ Works best with : [Perfect Player IPTV](http://niklabs.com/) ,
                   [Televizo - IPTV player](https://play.google.com/store/apps/details?id=com.ottplay.ottplay) ,
                   [TVirl. IPTV](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl)  for **Android TV** / **Firestick** / **Android Box**.
 
-Updated m3u links of YouTube live channels, **auto-updated every hour**.
+Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Usage
