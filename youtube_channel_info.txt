@@ -2,5 +2,5 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Parole Parlée TV (PPTV) 24x7 | French | https://i0.wp.com/paroleparleetv.com/wp-content/uploads/2022/07/COVER-PPTV-SITE.jpg |
+Parole Parlée TV (PPTV) 24x7 | French | https://paroleparleetv.com/wp-content/uploads/2022/07/LOGO-PPTV-FINAL-1.png |
 https://www.youtube.com/channel/UCTWC45fM79-R8wFQPosO1xg/live
