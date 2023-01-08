@@ -1,3 +1,14 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
+ 
+__         ______   _______   _______   __    __  __    __     _____  __       __  ______  __    __ 
+|  \       /      \ |       \ |       \ |  \  /  \|  \  /  \   |     \|  \     /  \|      \|  \  |  \
+| $$      |  $$$$$$\| $$$$$$$\| $$$$$$$\| $$ /  $$| $$ /  $$    \$$$$$| $$\   /  $$ \$$$$$$| $$  | $$
+| $$      | $$  | $$| $$__| $$| $$  | $$| $$/  $$ | $$/  $$       | $$| $$$\ /  $$$  | $$   \$$\/  $$
+| $$      | $$  | $$| $$    $$| $$  | $$| $$  $$  | $$  $$   __   | $$| $$$$\  $$$$  | $$    >$$  $$ 
+| $$      | $$  | $$| $$$$$$$\| $$  | $$| $$$$$\  | $$$$$\  |  \  | $$| $$\$$ $$ $$  | $$   /  $$$$\ 
+| $$_____ | $$__/ $$| $$  | $$| $$__/ $$| $$ \$$\ | $$ \$$\ | $$__| $$| $$ \$$$| $$ _| $$_ |  $$ \$$\
+| $$     \ \$$    $$| $$  | $$| $$    $$| $$  \$$\| $$  \$$\ \$$    $$| $$  \$ | $$|   $$ \| $$  | $$
+ \$$$$$$$$  \$$$$$$  \$$   \$$ \$$$$$$$  \$$   \$$ \$$   \$$  \$$$$$$  \$$      \$$ \$$$$$$ \$$   \$$ 
 
-#EXTINF:-1 tvg-id="PPTV.qa" tvg-logo="https://i0.wp.com/paroleparleetv.com/wp-content/uploads/2022/07/COVER-PPTV-SITE.jpg" group-title="French",Parole Parlée TV (PPTV) 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673190894/ei/jom6Y6_rEobfhwa8tJyoBw/ip/52.226.82.112/id/wsgJ8rXHohw.1/source/yt_live_broadcast/requiressl/yes/tx/24276399/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMMtq7cEFBbAiuLQ1Rnmyp8POxGB39YETUnBA0ErxUUkCIETqPIXyyY6YQq9EgqbkD1PscVxfCBtkbTyDfAig67nh/file/index.m3u8
+#EXTINF:-1 group-title="French" tvg-logo="https://i0.wp.com/paroleparleetv.com/wp-content/uploads/2022/07/COVER-PPTV-SITE.jpg" tvg-id="", Parole Parlée TV (PPTV) 24x7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673192244/ei/1I66Y4SAGZjRkgaeqangDQ/ip/13.83.14.128/id/wsgJ8rXHohw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAId_MLNHnxSj36rtW8Ws2bwoHjMWIOpYMhKr2AiCTNN2AiEAq8FOaBCENouZACXMPcLJ-pLwV57RfwUYaxnJyyCnRM4%3D/file/index.m3u8
