@@ -11,4 +11,4 @@ __         ______   _______   _______   __    __  __    __     _____  __       _
  \$$$$$$$$  \$$$$$$  \$$   \$$ \$$$$$$$  \$$   \$$ \$$   \$$  \$$$$$$  \$$      \$$ \$$$$$$ \$$   \$$ 
 
 #EXTINF:-1 group-title="French" tvg-logo="https://paroleparleetv.com/wp-content/uploads/2022/07/LOGO-PPTV-FINAL-1.png" tvg-id="", Parole Parlée TV (PPTV) 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676556570/ei/uuTtY-q3MMfV8wTJ2IuQBQ/ip/104.45.200.33/id/vByiwE3FKls.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI-04Bggnr7_OUaakVG2lFeZkW70GhlGqQ2L5QlS9mXUAiAlKTbaizwOEEgcbA_D05pwI-ROvBXW4PH0AxDBopRuZg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/lordkkjmix/YouTube_to_m3u/main/assets/info.m3u8
